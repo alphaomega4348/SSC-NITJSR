@@ -6,6 +6,7 @@ import About from './components/About';
 import NavBar from './components/NavBar';
 import Home from './components/Home';
 import EventImagesSlider from './components/EventImagesSlider';
+import Footer from './components/Footer';
 
 
 
@@ -14,6 +15,7 @@ const Layout = ({ children }) => (
   <>
     <NavBar />
     {children}
+    <Footer/>
   </>
 );
 

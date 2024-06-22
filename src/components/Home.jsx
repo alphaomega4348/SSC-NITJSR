@@ -12,7 +12,6 @@ const Home = () => {
     <ProfessorWords/>
     <Events/>
     <EventImagesSlider/>
-    <Footer/>
     </>
    
   );
