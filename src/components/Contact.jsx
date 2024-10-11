@@ -8,7 +8,7 @@ const Contact = () => {
       <form action="#" className="space-y-8">
           <div>
               <label htmlFor="email" className="block mb-2 text-sm font-medium text-gray-900">Your email</label>
-              <input type="email" id="email" className="shadow-sm bg-blue-50 border border-blue-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" placeholder="ssc@nitjsr.ac.in" required/>
+              <input type="email" id="email" className="shadow-sm bg-blue-50 border border-blue-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5" placeholder="robouat..ac.in" required/>
           </div>
           <div>
               <label htmlFor="subject" className="block mb-2 text-sm font-medium text-gray-900">Subject</label>

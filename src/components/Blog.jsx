@@ -6,7 +6,7 @@ const Blog = ({ blog }) => {
 
   const handleClick = () => {
     navigate(`/blog/${blog.id}`);
-  }
+  };
 
   return (
     <div onClick={handleClick} className="mt-4 w-[400px] cursor-pointer border p-4 rounded-lg mb-4 bg-white shadow-md hover:shadow-lg hover:bg-blue-100 transform hover:scale-105 transition-all duration-300">
@@ -15,6 +15,6 @@ const Blog = ({ blog }) => {
       <p className="text-gray-600">By {blog.author.name}</p>
     </div>
   );
-}
+};
 
 export default Blog;

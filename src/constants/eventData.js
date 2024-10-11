@@ -1,14 +1,14 @@
 export const eventList = [
     {
-        image:"/demo1.webp",
-        title:"Event 1",
+        image:"/rover.jpeg",
+        title:"MARS ROVER",
     },
     {
-        image:"/demo2.webp",
-        title:"Event 2",
+        image:"/isro.png",
+        title:"ISRO ROBOTICS CHALLENGE",
     },
     {
-        image:"/demo3.jpg",
-        title:"Event 3",
+        image:"/dd-robocon.png",
+        title:"DD Robocon",
     }
 ]

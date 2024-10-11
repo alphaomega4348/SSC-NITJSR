@@ -4,21 +4,21 @@ import Event from './Event';
 const events = [
   { 
     id: 1, 
-    name: 'Naivete Fiete', 
-    image: '/naivete-fiete.heic',
-    page:'/naivete-fiete' 
+    name: 'Under Water Robot Workshop', 
+    image: '/workshop.jpeg',
+    page:'/workshop' 
   },
   { 
     id: 2, 
-    name: 'Disputatio', 
-    image: '/disputatio.webp',
-    page:'/disputatio' 
+    name: 'Ojass', 
+    image: '/ojass.jpeg',
+    page:'/ojass' 
   },
   {
     id: 3,
-    name: 'Colloquium',
-    image: '/colloquium.webp',
-    page:'/colloquium' 
+    name: 'Robo Wars',
+    image: '/rover.png',
+    page:'/robowars' 
   }
 ];
 

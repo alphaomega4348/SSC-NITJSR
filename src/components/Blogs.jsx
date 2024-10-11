@@ -5,26 +5,26 @@ const Blogs = () => {
   const blogs = [
     {
       id: 1,
-      title: ' Naivete Fiete',
+      title: 'Underwater Object Detection Using Machine Learning Algorithms',
       author: {
         name: 'Shivam Kumar',
-        image: 'https://via.placeholder.com/150'
+        image: '/shivam.jpeg'
       }
     },
     {
       id: 2,
-      title: 'Case Studies',
+      title: 'Malaria Detection Using OpenCV and Deep Learning',
       author: {
-        name: 'Amit Singh',
-        image: 'https://via.placeholder.com/150'
+        name: 'Shivam Kumar',
+        image: '/shivam.jpeg'
       }
     },
     {
       id: 3,
-      title: ' World War-2',
+      title: 'Getting Started with ROS (Robot Operating System)',
       author: {
-        name: 'Amarjeet Kumar',
-        image: 'https://via.placeholder.com/150'
+        name: 'Amit Singh',
+        image: '/amit.jpeg'
       }
     }
   ];
