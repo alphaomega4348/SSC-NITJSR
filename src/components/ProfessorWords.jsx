@@ -16,7 +16,7 @@ const ProfessorWords = () => {
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatibus, sed. Deserunt neque architecto, nobis eum a explicabo provident excepturi natus enim laborum voluptatum iste aperiam nesciunt blanditiis ex numquam maiores accusamus fugiat sapiente dolorem nam autem debitis fugit ratione. Harum labore ipsum eligendi sed eius rem dolore deserunt, repellendus tenetur, sit voluptas atque ad, similique non neque? Vitae nulla sequi, exercitationem molestias voluptatibus sunt repellat! Velit magnam quibusdam a unde rerum nostrum, aperiam nemo soluta repudiandae odit. Ab nisi temporibus obcaecati, ut saepe illo! Aperiam ratione reiciendis velit rem aut impedit. Sed pariatur amet dolorem debitis dolor eaque, placeat eum beatae eligendi, esse quos molestias ex! Sit, consectetur ullam corporis nulla, omnis blanditiis sunt fugit aspernatur atque dolore maxime ex amet odio nesciunt sed iste sequi doloribus minus.
           </p>
           <h1 className="text-md lg:text-2xl font-bold text-blue-900 self-end lg:mt-auto">
-            Dr. Rajiv Bhushan
+            Dr. Vijay Dalla
           </h1>
         </div>
       </div>
