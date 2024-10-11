@@ -8,15 +8,13 @@ const Footer = () => {
         <div>
           <h3 className="font-mono text-lg mb-2">Social Links</h3>
           <div className="flex space-x-4">
-            <a href="https://www.linkedin.com/company/soft-skills-club2-nit-jamshedpur?originalSubdomain=in" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400">
+            <a href="https://www.linkedin.com/company/team-roboaut-robotics-and-automation-club-of-nit-jamshedpur/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-400">
               <FaLinkedin size={36} />
             </a>
-            <a href="https://www.instagram.com/softskillsclub.nitjsr/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-pink-500">
+            <a href="https://www.instagram.com/teamroboaut/profilecard/?igsh=MW1obHlyemlyYzVveQ==" target="_blank" rel="noopener noreferrer" className="text-white hover:text-pink-500">
               <FaInstagram size={36} />
             </a>
-            <a href="https://www.facebook.com/ssc.nitjamshedpur/" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-600">
-              <FaFacebook size={36} />
-            </a>
+           
           </div>
         </div>
         <div className="text-right">
