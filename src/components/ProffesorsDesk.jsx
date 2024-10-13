@@ -6,7 +6,7 @@ const ProffesorsDesk = () => {
         className="border border-black w-full max-w-screen-lg mx-auto mt-11 p-4 flex flex-col lg:flex-row items-start bg-gray-200 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300"
       >
         <img 
-          src="/rajiv_bhushan.jpeg" 
+          src="/dalla.jpeg" 
           alt="Professor" 
           className="w-full lg:w-1/3 h-64 lg:h-auto object-cover rounded-lg mb-4 lg:mb-0 lg:mr-4"
         />
