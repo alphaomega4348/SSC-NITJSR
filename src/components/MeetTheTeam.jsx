@@ -1,4 +1,4 @@
-const ProfessorWords = () => {
+const MeetTheTeam = () => {
   return (
     <> 
       <h1 className="mt-[40px] text-4xl font-bold ml-[40px] mb-8">Meet The Team</h1>
@@ -16,4 +16,4 @@ const ProfessorWords = () => {
   );
 }
 
-export default ProfessorWords;
+export default MeetTheTeam;

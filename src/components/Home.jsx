@@ -2,14 +2,15 @@
 
 import EventImagesSlider from './EventImagesSlider';
 import Events from './Events';
-import Footer from './Footer';
-import ProfessorWords from './ProfessorWords';
+import MeetTheTeam from './MeetTheTeam';
+import ProffesorsDesk from './ProffesorsDesk';
 
 
 const Home = () => {
   return (
     <>
-    <ProfessorWords/>
+    <ProffesorsDesk/>
+    <MeetTheTeam/>
     <Events/>
     <EventImagesSlider/>
     </>

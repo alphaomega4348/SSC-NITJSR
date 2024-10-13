@@ -24,7 +24,8 @@ const About = () => {
         image="/shivam.jpeg"
         name="Shivam Kumar"
         post="Software Lead"
-        words="As Software Lead at RoboAut, I strive to fuse innovation with code, breathing life into machines. Together, we craft intelligent solutions that shape the future of robotics and automation."
+        words="
+As the Software Lead at RoboAut, I love turning ideas into reality through code. Our team is all about building smart, innovative solutions in robotics and automation. It's more than just programming—it's about solving real-world problems together. We’re pushing the limits of what's possible, and I’m excited to be part of this journey."
       />
       
     </div>
